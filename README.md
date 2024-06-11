@@ -1,5 +1,6 @@
 # PythonKiss
 # Python 1
+```python
 import math
 
 def main(I):
@@ -31,8 +32,10 @@ def main(I):
 print(main({32, 64, -53, 43, -99, -12, -9, -72, 59, -67}))
 
 print(main({-96, 1, -61, 69, 47, 17, -78, -41, 28, -33}))
+```
 
 # Python 2
+```python
 def transcode(hex_string):
 
    
@@ -72,6 +75,6 @@ print(transcode('0x1eebb3'))
 print(transcode('0x146c4b'))
 
 print(transcode('0xa25f1'))
-
+```
 
 
